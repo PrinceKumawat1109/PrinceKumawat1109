@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Kumawat</h1>
+<h1 align="center">Hi 👋, I'm Prince</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumawat1109&label=Profile%20views&color=0e75b6&style=flat" alt="princekumawat1109" /> </p>
 
 <h3 align="left">Connect with me:</h3>
